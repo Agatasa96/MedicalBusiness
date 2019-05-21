@@ -1,0 +1,63 @@
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Roboto Slab", "Palatino Linotype", Palatino, Garamond, Georgia, serif;
+}
+
+header {
+    left: 0;
+    line-height: 4rem;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1111;
+}
+
+header .container {
+    padding: 2rem 0;
+}
+
+header a {
+    color: #444;
+}
+
+footer {
+    background: #f2f2f2;
+    padding: 3rem 0;
+}
+
+footer li + li {
+    margin-left: 1rem;
+}
+
+.content {
+    margin: 5rem 0;
+}
+
+.bgnd {
+    background-attachment: fixed;
+	background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 54vh;
+	max-height: 1200px;
+	min-height: 200px;
+}
+
+header + .bgnd {
+    height: 86vh;
+}
+
+.bgnd-1 {
+    background-image: url(http://www.ecs.com.tw/extra/solution/smart-medical/images/section1_img.jpg);
+}
+
+.bgnd-2 {
+    background-image: url(https://jamanetwork.com/imagelibrary/CollectionFeaturedImages/JamaNetwork/5856_physical-medicine-and-rehabilitation.png);
+}
+
+.bgnd-3 {
+    background-image: url(https://www.strokeassociation.org/-/media/stroke-images/life-after-stroke/young-woman-physiotherapist-working-with-a-senior-pyskn32.png?la=en&hash=6A244E6397FD5B51BA94980BD67FD035BCC36B13);
+}
+
+.bgnd-4 {
+    background-image: url(https://www.ohsu.edu/xd/health/services/ortho/getting-treatment/services/non-surgical-treatment/images/carlson_non-op_banner_2.jpg);
+}
