@@ -64,7 +64,7 @@
 
 				<br>
 				<p class="mar">
-					Biodex System 4 <br>Cena: <br> <a href="">Sprawdź</a>
+					Biodex System 4 <br>Cena: <br> <a href="/MedicalBusiness/biodex4">Sprawdź</a>
 				</p>
 
 			</div>

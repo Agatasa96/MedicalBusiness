@@ -10,4 +10,9 @@ public class MainController {
 	public String home() {
 		return "home";
 	}
+	
+	@GetMapping("/biodex4")
+	public String biodex4() {
+		return "biodex4info";
+	}
 }
