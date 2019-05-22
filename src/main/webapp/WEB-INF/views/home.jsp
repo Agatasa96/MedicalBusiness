@@ -17,8 +17,9 @@
 	href="/MedicalBusiness/resources/style/homePageStyle.css"
 	type="text/css">
 <script src="/MedicalBusiness/resources/js/paralax.js"></script>
-<script
+<!-- <script
 	src="moz-extension://c514e2a5-03d5-4510-b5bd-7226766f3170/assets/prompt.js"></script>
+ -->
 </head>
 
 <body>
@@ -64,7 +65,8 @@
 
 				<br>
 				<p class="mar">
-					Biodex System 4 <br>Cena: <br> <a href="/MedicalBusiness/biodex4">Sprawdź</a>
+					Biodex System 4 <br>Cena: <br> <a
+						href="/MedicalBusiness/biodex4">Sprawdź</a>
 				</p>
 
 			</div>
@@ -72,7 +74,7 @@
 				<h1>2.</h1>
 				<br>
 				<p class="mar">
-					Biodex Balance System <br>Cena: <br> <a href="">Sprawdź</a>
+					Biodex Balance System <br>Cena: <br> <a href="/MedicalBusiness/balance">Sprawdź</a>
 				</p>
 
 			</div>

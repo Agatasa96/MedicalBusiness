@@ -13,6 +13,10 @@ public class MainController {
 	
 	@GetMapping("/biodex4")
 	public String biodex4() {
-		return "biodex4info";
+		return "biodex4";
+	}
+	@GetMapping("/balance")
+	public String balance() {
+		return "balance";
 	}
 }
